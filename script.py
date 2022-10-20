@@ -16,4 +16,4 @@ for (root, dirs, files) in os.walk(image_folder, topdown=True):
         print("saved in " + root + "/" + new_name + ".png")
         print("-----------------------")
 
-print("all JPG converted to PNG")
+print("all JPG converted to PNG") 
