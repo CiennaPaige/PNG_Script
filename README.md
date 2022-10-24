@@ -14,9 +14,8 @@ from PIL import Image
 
 Example of use:
 
-    ```md
-    ![alt text](assets/images/example.png)
-    ```
+![photo](assets/example.png)
+ 
 
 ## License
 
